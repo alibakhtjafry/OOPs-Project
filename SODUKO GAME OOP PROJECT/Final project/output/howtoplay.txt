@@ -1,0 +1,21 @@
+Enter Row, Column, and Number (1-9 each):
+
+Validation Rules:
+
+Number must not be in the same row.
+Number must not be in the same column.
+Number must not be in the same 3x3 grid.
+
+Making a Move:
+Invalid moves will trigger a mistake sound and be disallowed.
+Valid moves place the number and continue the game.
+Complete the puzzle by following the rules.
+
+Important Notes:
+Mistakes count as blunders. Avoid them.
+Check your progress and mistake count anytime.
+Enjoy and challenge yourself to solve with fewest mistakes!
+
+Technique:
+Use TBM (Top Middle Bottom): A number in one grid's top appears in the middle of the next and 
+the bottom of the third, and vice versa.
